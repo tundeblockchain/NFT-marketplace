@@ -39,4 +39,3 @@ truffle-config.js
 config.js
 .env
 .secret
-yarn.lock
