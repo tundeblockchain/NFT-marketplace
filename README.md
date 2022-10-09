@@ -16,8 +16,8 @@ This is the contract address for the NFT marketplace deployed to the network.
 NEXT_PUBLIC_NFTMARKETADDRESS
 
 IPFS variables are used to store NFT metadata. Add the following to .env file with details for your IPFS details
-NEXT_PUBLIC_IPFSPROJECTID
-NEXT_PUBLIC_IPFSPROJECTSECRET 
+NEXT_PUBLIC_IPFSPROJECTID,
+NEXT_PUBLIC_IPFSPROJECTSECRET,
 NEXT_PUBLIC_IPFSDEDICATED
 
 ## Run Project
